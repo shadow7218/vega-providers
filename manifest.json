@@ -1,0 +1,10 @@
+[
+  {
+    "display_name": "Fusion Demo",
+    "value": "fusionDemo",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/vega-org/vega-app/main/assets/icon.png",
+    "type": "global",
+    "disabled": false
+  }
+]
